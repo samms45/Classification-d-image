@@ -1,6 +1,6 @@
 # Projet de Classification d'Images
 
-## Présentation et Objectifs
+## Présentation 
 
 Ce projet se concentre sur la classification supervisée d'images de chiens et de chats.
 
