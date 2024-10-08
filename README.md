@@ -14,7 +14,7 @@ Comparer trois types d'architectures de réseaux de neurones :
 - Réseau de Neurones Convolutifs (CNN)
 - Modèle pré-entraîné VGG16
 
-L'objectif est de déterminer quelle architecture offre la meilleure performance.
+Ensuite déterminer quelle architecture offre la meilleure performance.
 
 ## Méthodologie
 
