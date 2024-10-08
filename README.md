@@ -14,14 +14,9 @@ Comparer trois types d'architectures de réseaux de neurones :
 - Réseau de Neurones Convolutifs (CNN)
 - Modèle pré-entraîné VGG16
 
-L'objectif est de déterminer quelle architecture offre les meilleures performances.
+L'objectif est de déterminer quelle architecture offre la meilleure performance.
 
 ## Méthodologie
-
-### Outils et Technologies
-
-- **Langage** : Python
-- **Bibliothèques** : TensorFlow, Keras
 
 ### Étapes du Projet
 
@@ -39,5 +34,10 @@ L'objectif est de déterminer quelle architecture offre les meilleures performan
    - Comparaison des résultats obtenus sur les ensembles d'entraînement et de validation
    - Analyse de la précision et de la fonction de perte pour chaque modèle
    - Sélection du modèle le plus performant, en s'assurant qu'il généralise bien sur de nouvelles données
+  
+### Outils et Technologies
+
+- **Langage** : Python
+- **Bibliothèques** : TensorFlow, Keras
 
 
